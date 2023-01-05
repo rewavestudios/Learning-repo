@@ -22,16 +22,3 @@ To resolve this issue:
 	
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
-
-### Instructor
-
-Ray Villalobos 
-                            
-Author, Multimedia Developer
-
-                            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos).
-
-[lil-course-url]: https://www.linkedin.com/learning/learning-git-and-github-14213624
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2421501/2421501-1629911102468-16x9.jpg
