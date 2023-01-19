@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rewavestudios/Learning-repo/issues"
   },
-  "homepage": "https://github.com/rewavestudios/Learning-repo#readme"
+  "homepage": "https://github.com/rewavestudios/Learning-repo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
